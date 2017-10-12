@@ -17,6 +17,6 @@ test work
 ***ddddddddddddddd***
 `выделенные слова`
 
-    dir /fonts
-    dir /images
-    dir /js
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
