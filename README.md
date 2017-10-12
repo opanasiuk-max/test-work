@@ -16,3 +16,7 @@ test work
 **Жирный шрифт**
 ***ddddddddddddddd***
 `выделенные слова`
+
+    dir /fonts
+    dir /images
+    dir /js
