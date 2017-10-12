@@ -1,34 +1,10 @@
 # test-work
 test work
 
-Первый абзац
-***
-Второй абзац
+To import settings from a JAR archive:
 
-заголовок первого уровня
-=====================
-заголовок второго уровня
------------------------------------
-### заголовок третьего уровня
-#### заголовок четвёртого уровня
-##### заголовок пятого уровня
-###### заголовок шестого уровня
-**Жирный шрифт**
-***ddddddddddddddd***
-`выделенные слова`
+1. Download file settings.jar;
+2. On the main menu, choose **File | Import Settings**;
+3. In the **Import File Location** dialog box that opens select the desired archive;
+4. In the **Select Components to Import** dialog box that opens specify the settings to be imported, and click **OK**. By default, all settings are selected.
 
-```javascript
-console.log("hello");
-```
-> Текст
-> 
-> Продолжение текста выделенного блока
-> Завершение текста
-
-* Пункт 1
-* Пункт 2
-* Пункт 3
-
-1. Пункт 1
-2. Пункт 2
-3. Пункт 3
