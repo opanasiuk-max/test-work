@@ -10,5 +10,8 @@ To import settings from a JAR archive:
 
 you can use snippets:
 
-co-text - ```html <div> hellll </div> ```
+co-text - 
+```html
+<div> hellll </div>
+```
 
