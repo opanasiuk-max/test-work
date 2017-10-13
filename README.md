@@ -10,8 +10,18 @@ To import settings from a JAR archive:
 
 you can use snippets:
 
-co-text - 
+* co-text :
 ```html
 <div> hellll </div>
 ```
+---
+* co-collection :
+```html
+<co-collection model="m.$SELECTION$" as="">
+    <co-collection-item>
+       $END$
+    </co-collection-item>
+</co-collection>
+```
+---
 
