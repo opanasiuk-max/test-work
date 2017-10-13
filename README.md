@@ -9,13 +9,13 @@ To import settings from a JAR archive:
 4. In the **Select Components to Import** dialog box that opens specify the settings to be imported, and click **OK**. By default, all settings are selected.
 
 you can use next snippets (push button ***Tab*** after write):
----
 
+***
 * co-text :
 ```html
 <co-text>  </co-text>
 ```
----
+***
 * co-collection :
 ```html
 <co-collection model="m." as="">
@@ -24,7 +24,7 @@ you can use next snippets (push button ***Tab*** after write):
     </co-collection-item>
 </co-collection>
 ```
----
+***
 * co- :
 
 ```html
@@ -32,3 +32,4 @@ you can use next snippets (push button ***Tab*** after write):
     
 </co->
 ```
+***
