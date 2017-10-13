@@ -12,16 +12,22 @@ you can use snippets:
 
 * co-text :
 ```html
-<div> hellll </div>
+<co-text>  </co-text>
 ```
 ---
 * co-collection :
 ```html
-<co-collection model="m.$SELECTION$" as="">
+<co-collection model="m." as="">
     <co-collection-item>
-       $END$
+       
     </co-collection-item>
 </co-collection>
 ```
 ---
+* co- :
 
+```html
+<co->
+    
+</co->
+```
