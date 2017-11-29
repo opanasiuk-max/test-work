@@ -31,4 +31,4 @@ $(document).ready(function() {
 
 });
 
-
+    console.log("props");
