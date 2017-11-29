@@ -9,7 +9,7 @@ $(document).ready(function() {
     });
 
 
-	//Tabs
+	//Tabs gfgfgfgfgfgfgfgfgfgfg
 
 	$('.filter-button-link').click( function(e){
 		e.preventDefault();
@@ -30,8 +30,3 @@ $(document).ready(function() {
 	});
 
 });
-
-
-
-
-console.log("second");
