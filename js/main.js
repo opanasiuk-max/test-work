@@ -9,7 +9,7 @@ $(document).ready(function() {
     });
 
 
-	//Tabs gfgfgfgfgfgfgfgfgfgfg
+	//Tabs hello
 
 	$('.filter-button-link').click( function(e){
 		e.preventDefault();
