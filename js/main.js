@@ -32,6 +32,3 @@ $(document).ready(function() {
 });
 
 
-
-
-console.log("8888");
